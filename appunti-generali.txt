@@ -1,0 +1,8 @@
+Shader: insieme di istruzioni(algoritmi) che descrivono come la luce va a colpire un determinato oggetto 3d virtuale. Di conseguenza, gli shader determinano l'apparenza di un determinato oggetto 3d.
+
+Mesh: si ottiene combinando una figura geometrica con un "materiale", il quale si occupa di curare l'apparenza della figura (how it looks). Dall'interno del mesh, non si vede il mesh stesso: infatti il motore renderizza solo un lato del triangolo.
+
+Camera: è il punto di vista dell'osservatore. La scena può esistere senza camera ma non potrà essere vista da nessuno. Ci sono tipi differenti di camera. Si deve sempre impostare il position(x,y,z) rotation e scale della camera, altrimenti la camera verrà messa al centro della scena.
+
+Renderer: è il motore che disegna sulla tela (canvas) in base alle istruzioni da noi fornite.
+
