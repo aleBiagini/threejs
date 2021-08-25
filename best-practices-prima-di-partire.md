@@ -1,0 +1,2 @@
+### Imposta la scala della tua unità di misura
+Quando si vanno a creare e spostare blocchi, si va ad unsare un unità (1) senza specifiche su cosa sia. è importante darsi delle regole per corstruire un mondo omogeneo.
