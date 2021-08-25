@@ -78,4 +78,4 @@ Il metodo `lookAt()` ruota l'oggetto in modo tale che le sue faccie `-z` puntino
 In pratica, è un modo comodo per far guardare un oggetto in un determinato punto.
 
 # Gruppi
-Possiamo raggruppare all'interno di uno stesso contenitore uno o più oggetti 3d. Facendolo, possiamo raggrupparli logicamente e spostarli tutti assieme. Ad esempio, una casa avrà tutti i blocchi logici all'interno dello stesso gruppo, e a sua volta sarà suddivisa in fondamenta, piano terra, primo piano etc
+Possiamo raggruppare all'interno di uno stesso contenitore uno o più oggetti 3d. Facendolo, possiamo raggrupparli logicamente e spostarli tutti assieme. Ad esempio, una casa avrà tutti i blocchi logici all'interno dello stesso gruppo, e a sua volta sarà suddivisa in fondamenta, piano terra, primo piano etc.
